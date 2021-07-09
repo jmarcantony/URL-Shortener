@@ -1,6 +1,8 @@
 # URL-Shortener
 Simple URL shortener in python 📏
 
+## URL Shortner: https://blooming-peak-28753.herokuapp.com/
+
 ## Written in python 3.9.4
 
 # Installation on Windows:
